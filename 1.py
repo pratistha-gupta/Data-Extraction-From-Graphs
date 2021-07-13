@@ -3,7 +3,6 @@ import numpy as np
 import csv
 import os
 
-
 ##First of all it will ask the index of the image you want to plot the graph for from the "graphs" folder. Put your image in that folder
 ##Now the graph image will open (if not poped up watch it somewhere behind the open windows). CAUTION: DO NOT CLICK TWICE ON THE POPED UP IMAGE BEFORE ANSWERING THE INPUT.
 ##Now, PRESS 'o' to select origin of the graph.
