@@ -5,7 +5,7 @@
 )
 
 ## Introduction
-A python based program which extracts coordinates of required points form a graph fiven in pdf format. 
+A python based program which extracts coordinates of required points form a graph given in pdf format. 
 The program is a semi-automated tool that makes this process extremely easy.
 
 ## Demo
