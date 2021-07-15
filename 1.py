@@ -3,20 +3,6 @@ import numpy as np
 import csv
 import os
 
-##First of all it will ask the index of the image you want to plot the graph for from the "graphs" folder. Put your image in that folder
-##Now the graph image will open (if not poped up watch it somewhere behind the open windows). CAUTION: DO NOT CLICK TWICE ON THE POPED UP IMAGE BEFORE ANSWERING THE INPUT.
-##Now, PRESS 'o' to select origin of the graph.
-##After selecting origin, PRESS 'x' to select any point on x-axis (just one click).
-##It will ask the distance between origin and the point on x-axis which has just been selected.
-##Following this it will ask if there is any zero offset i.e. if the origin represent 0 on the x-axis.
-##After answering the length of line segment selected, zero offset and pressing enter PRESS 'y' for y-axis calibration and follow the same procedure as used for x-axis.
-##After completion of caliberation now PRESS 'p' to select data point on graph for which coordinates has to be digitized.
-##PRESS 's' to save the image of graph with selected points.
-##PRESS 'f' to finish.
-##Check "plotDataFiles" folder for .csv file generated and "plots" folder for the saved map image.
-
-
-
 arr = os.listdir("graphs") #list the directory files
 print("Please select the file you want to print x,y co-ordinates")
 for i, filename in enumerate(arr):
