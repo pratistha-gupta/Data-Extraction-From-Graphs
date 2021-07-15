@@ -1,4 +1,4 @@
-# Data_extraction_from_Graph_Image
+# Data-Extraction-From-Graphs
 
 [![sa](https://user-images.githubusercontent.com/62691542/125805584-bcdbe448-0846-4c1b-9506-7ecd3c90a38c.png)
 ](![sa](https://user-images.githubusercontent.com/62691542/125805584-bcdbe448-0846-4c1b-9506-7ecd3c90a38c.png)
