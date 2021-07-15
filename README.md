@@ -1,5 +1,7 @@
 # Data_extraction_from_Graph_Image
-
+[![sss](https://user-images.githubusercontent.com/62691542/125805319-5b611859-4fd0-4693-8089-2217ae2e03f4.png)
+](![sss](https://user-images.githubusercontent.com/62691542/125805319-5b611859-4fd0-4693-8089-2217ae2e03f4.png)
+)
 
 # Introduction
 A python based program which extracts coordinates of required points form a graph fiven in pdf format. 
