@@ -13,7 +13,7 @@ The program is a semi-automated tool that makes this process extremely easy.
 - Enter the index of the image you want to plot the graph for from the "graphs" folder. Put your image in that folder.
 - The graph image will open, if not watch it somewhere behind the open windows.
 - DO NOT CLICK TWICE ON THE POPED UP IMAGE BEFORE ANSWERING THE INPUT. 
-- PRESS 'o' to select origin of the graph. After selecting origin, PRESS 'x' to select any point on x-axis (click once).
+- PRESS `o` to select origin of the graph. After selecting origin, PRESS 'x' to select any point on x-axis (click once).
 - Enter the distance between origin and the point on x-axis which has just been selected.
 - Enter the zero offset if present.
 - After answering the length of line segment selected, zero offset and pressing enter PRESS 'y' for y-axis calibration and follow the same procedure as used for x-axis.
