@@ -11,8 +11,8 @@ The program is a semi-automated tool that makes this process extremely easy.
 
 # Features
 
-- User can select as many as coordinates according to the requirement.
--Returns coordinates of any curve irrespective of graph background, type, color.
+- User can select as many coordinates according to the requirement.
+- Returns coordinates of any type of curve irrespective of graph background, type, color.
 - Works for mutliple curves too.
 - Returns output coordinates upto 6 decimal precision.
 - Output is saved automatically in the excel sheet.
@@ -21,7 +21,7 @@ The program is a semi-automated tool that makes this process extremely easy.
 # Programming Language Used
 
 - Python
-## Libraries Used
+### Libraries Used
 - NumPy
 - Open CV
 - CSV
