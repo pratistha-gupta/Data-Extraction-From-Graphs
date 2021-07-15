@@ -1,6 +1,7 @@
 # Data_extraction_from_Graph_Image
-[![sss](https://user-images.githubusercontent.com/62691542/125805319-5b611859-4fd0-4693-8089-2217ae2e03f4.png)
-](![sss](https://user-images.githubusercontent.com/62691542/125805319-5b611859-4fd0-4693-8089-2217ae2e03f4.png)
+
+[![sa](https://user-images.githubusercontent.com/62691542/125805584-bcdbe448-0846-4c1b-9506-7ecd3c90a38c.png)
+](![sa](https://user-images.githubusercontent.com/62691542/125805584-bcdbe448-0846-4c1b-9506-7ecd3c90a38c.png)
 )
 
 # Introduction
